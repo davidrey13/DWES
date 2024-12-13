@@ -1,0 +1,4 @@
+id_eventos,nombre_evento,tipo_deporte,fecha,hora,ubicacion,id_organizador
+1,futbol,futbol,2025-04-11,11:15,chipiona,2
+2,baloncesto,baloncesto,2025-04-21,11:35,chipiona,2
+3,tenis,tenis,2025-04-19,16:15,chipiona,2
